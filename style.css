@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+}
+
+a:hover{
+	background-color: rgba(244,88,204,.50);
+	/*background-color: #F89BE0;*/
+}
+
+a{
+	background-color: #F458CC;
+	color: white;
+	text-align: none;
+	text-decoration: none;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.center_container {
+	text-align: center;
+}
+.center {
+	display: inline-block;
+}
